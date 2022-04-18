@@ -12,7 +12,7 @@ My solution for the NFT Preview Card.
 ### Links
 
 - Solution URL : [code](https://github.com/EtnoPolino/nft_preview_card.git)
-- Live Site URL : [demo]()
+- Live Site URL : [demo](https://etnopolino.github.io/nft_preview_card/)
 
 ### Built with
 
